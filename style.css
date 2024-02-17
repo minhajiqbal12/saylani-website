@@ -1,0 +1,68 @@
+.navbar-brand{
+    color: orange;
+    padding-left: 70px;
+    font-size: 43px;
+    font-weight: bold;
+}
+.bg-color{
+    color: orange;
+    outline: none;
+}
+.navbar-head{
+    background-color: black;
+}
+.nav-item:hover{
+    color: orange;
+}
+.nav-item{
+    padding-right: 15px;
+}
+.rent{
+   font-size: 30px;
+   font-weight: 500;
+}
+
+.best-rental{
+    font-size: 90px;
+    padding-bottom: 50px;
+    font-weight: 600;
+}
+
+.reserve{
+    padding: 13px;
+    color:white;
+    background-color: black;
+     
+}
+.div-reserve{
+    padding-bottom: 70px; 
+
+}
+
+.img{
+    text-align: center;
+}
+.welcome{
+    font-size: 100px;
+    font-weight: 500;
+    color: orange;
+
+}
+
+.number{
+    font-size: 80px;
+    color: orange;
+    font-weight: bold;
+
+}
+.span{
+    color: orange;
+    font-weight: 700px;
+}
+.to-do{
+    color: grey;
+}
+.lorem{
+    font-size: 32px;
+
+}
